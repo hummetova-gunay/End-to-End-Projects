@@ -18,6 +18,8 @@
 
 # Logging
 
+# ------------------------------------------------------------------------
+
 # Task 10: Performance Optimization
 
 # Goal: Scale readiness.
